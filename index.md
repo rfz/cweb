@@ -9,21 +9,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+免编译，像php一样解释运行
 
-- Bulleted
-- List
+配置自带tcc编译器，无需配置环境变量，无需配置文件。#tcc编译器源自网络。
 
-1. Numbered
-2. List
+基于标准标准标准cgi修改，不用执行，是直接解释c源文件运行。####像php源文件一样不用执行权限。
 
-**Bold** and _Italic_ and `Code` text
+支持post get 理论还支持其他方式请求
+支持cookie等
 
-[Link](url) and ![Image](src)
+
+网站根目录wwwroot
+
+双击cweb.exe，即可运行服务器
+
+浏览器访问http://127.0.0.1:8087/index.c，出现Holle World就是成功
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown).
