@@ -8,8 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[Downloand](https://rfz.github.io/cweb/cweb.rar)
+[立即下载](https://rfz.github.io/cweb/cweb.rar)
 ```markdown
+
+仅支持windows
 
 免编译，像php一样解释运行
 
